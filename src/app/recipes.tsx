@@ -1,9 +1,9 @@
 import { StyleSheet, Text, View } from "react-native";
 
-export default function Index() {
+export default function Recipes() {
   return (
     <View style={styles.container}>
-      <Text>Home Screen</Text>
+      <Text>Inventory Screen</Text>
     </View>
   );
 }
