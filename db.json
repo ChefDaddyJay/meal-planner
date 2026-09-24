@@ -1,0 +1,1776 @@
+{
+  "inventory": [],
+  "categories": [
+    {
+      "id": "dairy",
+      "name": "Dairy",
+      "color": "#72A9C4"
+    },
+    {
+      "id": "protein",
+      "name": "Protein",
+      "color": "#D97968"
+    },
+    {
+      "id": "produce_fresh",
+      "name": "Fresh Produce",
+      "color": "#79A86B"
+    },
+    {
+      "id": "produce_frozen",
+      "name": "Frozen Produce",
+      "color": "#67B5B0"
+    },
+    {
+      "id": "canned",
+      "name": "Canned",
+      "color": "#D6AA4B"
+    },
+    {
+      "id": "grains",
+      "name": "Grains",
+      "color": "#C89B58"
+    },
+    {
+      "id": "baking",
+      "name": "Baking",
+      "color": "#A58CC2"
+    },
+    {
+      "id": "oils",
+      "name": "Oils",
+      "color": "#9BA34F"
+    },
+    {
+      "id": "condiments",
+      "name": "Condiments",
+      "color": "#D46F55"
+    },
+    {
+      "id": "broths",
+      "name": "Broths",
+      "color": "#B99B7A"
+    },
+    {
+      "id": "beans",
+      "name": "Beans",
+      "color": "#B97855"
+    },
+    {
+      "id": "nuts",
+      "name": "Nuts",
+      "color": "#A98262"
+    },
+    {
+      "id": "bread",
+      "name": "Bread",
+      "color": "#D39A63"
+    },
+    {
+      "id": "spices",
+      "name": "Spices",
+      "color": "#B86B91"
+    },
+    {
+      "id": "breakfast",
+      "name": "Breakfast",
+      "color": "#78A8D1"
+    },
+    {
+      "id": "snacks",
+      "name": "Snacks",
+      "color": "#E39A70"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "milk_whole",
+      "name": "Whole Milk",
+      "category": "dairy",
+      "purchaseUnit": "gal",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "milk_2_percent",
+      "name": "2% Milk",
+      "category": "dairy",
+      "purchaseUnit": "gal",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "milk_1_percent",
+      "name": "1% Milk",
+      "category": "dairy",
+      "purchaseUnit": "gal",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "milk_skim",
+      "name": "Skim Milk",
+      "category": "dairy",
+      "purchaseUnit": "gal",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "half_and_half",
+      "name": "Half-and-Half",
+      "category": "dairy",
+      "purchaseUnit": "qt",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "heavy_cream",
+      "name": "Heavy Cream",
+      "category": "dairy",
+      "purchaseUnit": "pt",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "butter_salted",
+      "name": "Salted Butter",
+      "category": "dairy",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "butter_unsalted",
+      "name": "Unsalted Butter",
+      "category": "dairy",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "cheddar_block",
+      "name": "Cheddar Cheese",
+      "category": "dairy",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "cheddar_shredded",
+      "name": "Shredded Cheddar Cheese",
+      "category": "dairy",
+      "purchaseUnit": "bag",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "mozzarella",
+      "name": "Mozzarella Cheese",
+      "category": "dairy",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "parmesan",
+      "name": "Parmesan Cheese",
+      "category": "dairy",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "monterey_jack",
+      "name": "Monterey Jack Cheese",
+      "category": "dairy",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "cream_cheese",
+      "name": "Cream Cheese",
+      "category": "dairy",
+      "purchaseUnit": "package",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "sour_cream",
+      "name": "Sour Cream",
+      "category": "dairy",
+      "purchaseUnit": "pt",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "greek_yogurt",
+      "name": "Greek Yogurt",
+      "category": "dairy",
+      "purchaseUnit": "qt",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "plain_yogurt",
+      "name": "Plain Yogurt",
+      "category": "dairy",
+      "purchaseUnit": "qt",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "eggs",
+      "name": "Eggs",
+      "category": "dairy",
+      "purchaseUnit": "count",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "count"
+    },
+
+    {
+      "id": "chicken_breast",
+      "name": "Chicken Breast",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "chicken_thigh",
+      "name": "Chicken Thighs",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "ground_beef_80",
+      "name": "Ground Beef 80/20",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "ground_beef_90",
+      "name": "Ground Beef 90/10",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "sirloin",
+      "name": "Sirloin Steak",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "pork_chops",
+      "name": "Pork Chops",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "pork_loin",
+      "name": "Pork Loin",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "bacon",
+      "name": "Bacon",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "italian_sausage",
+      "name": "Italian Sausage",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "breakfast_sausage",
+      "name": "Breakfast Sausage",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "deli_ham",
+      "name": "Deli Ham",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "deli_turkey",
+      "name": "Deli Turkey",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "hot_dogs",
+      "name": "Hot Dogs",
+      "category": "protein",
+      "purchaseUnit": "package",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "shrimp",
+      "name": "Shrimp",
+      "category": "protein",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "canned_tuna",
+      "name": "Canned Tuna",
+      "category": "protein",
+      "purchaseUnit": "can",
+      "baseQuantity": 5,
+      "defaultRecipeUnit": "oz"
+    },
+
+    {
+      "id": "potato_russet",
+      "name": "Russet Potatoes",
+      "category": "produce_fresh",
+      "purchaseUnit": "lb",
+      "baseQuantity": 5,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "potato_yukon",
+      "name": "Yukon Gold Potatoes",
+      "category": "produce_fresh",
+      "purchaseUnit": "lb",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "potato_red",
+      "name": "Red Potatoes",
+      "category": "produce_fresh",
+      "purchaseUnit": "lb",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "sweet_potato",
+      "name": "Sweet Potatoes",
+      "category": "produce_fresh",
+      "purchaseUnit": "lb",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "onion_yellow",
+      "name": "Yellow Onion",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "onion_red",
+      "name": "Red Onion",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "category": "produce_fresh",
+      "purchaseUnit": "bulb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "clove"
+    },
+    {
+      "id": "carrots",
+      "name": "Carrots",
+      "category": "produce_fresh",
+      "purchaseUnit": "bag",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "celery",
+      "name": "Celery",
+      "category": "produce_fresh",
+      "purchaseUnit": "bunch",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "stalk"
+    },
+    {
+      "id": "bell_pepper_green",
+      "name": "Green Bell Pepper",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "bell_pepper_red",
+      "name": "Red Bell Pepper",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "bell_pepper_yellow",
+      "name": "Yellow Bell Pepper",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "category": "produce_fresh",
+      "purchaseUnit": "head",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "head"
+    },
+    {
+      "id": "cauliflower",
+      "name": "Cauliflower",
+      "category": "produce_fresh",
+      "purchaseUnit": "head",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "head"
+    },
+    {
+      "id": "green_beans",
+      "name": "Green Beans",
+      "category": "produce_fresh",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "zucchini",
+      "name": "Zucchini",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "yellow_squash",
+      "name": "Yellow Squash",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "corn_fresh",
+      "name": "Corn on the Cob",
+      "category": "produce_fresh",
+      "purchaseUnit": "ear",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "ear"
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage",
+      "category": "produce_fresh",
+      "purchaseUnit": "head",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "head"
+    },
+    {
+      "id": "romaine",
+      "name": "Romaine Lettuce",
+      "category": "produce_fresh",
+      "purchaseUnit": "head",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "head"
+    },
+    {
+      "id": "spinach_fresh",
+      "name": "Fresh Spinach",
+      "category": "produce_fresh",
+      "purchaseUnit": "bag",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "kale",
+      "name": "Kale",
+      "category": "produce_fresh",
+      "purchaseUnit": "bunch",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "bunch"
+    },
+    {
+      "id": "mushrooms",
+      "name": "Mushrooms",
+      "category": "produce_fresh",
+      "purchaseUnit": "package",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "tomatoes",
+      "name": "Tomatoes",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "green_onions",
+      "name": "Green Onions",
+      "category": "produce_fresh",
+      "purchaseUnit": "bunch",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "jalapeno",
+      "name": "Jalapeño",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "cilantro",
+      "name": "Cilantro",
+      "category": "produce_fresh",
+      "purchaseUnit": "bunch",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "bunch"
+    },
+    {
+      "id": "parsley_fresh",
+      "name": "Fresh Parsley",
+      "category": "produce_fresh",
+      "purchaseUnit": "bunch",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "bunch"
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "category": "produce_fresh",
+      "purchaseUnit": "count",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "count"
+    },
+
+    {
+      "id": "frozen_peas",
+      "name": "Frozen Peas",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "frozen_corn",
+      "name": "Frozen Corn",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "frozen_mixed_vegetables",
+      "name": "Frozen Mixed Vegetables",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "frozen_broccoli",
+      "name": "Frozen Broccoli",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "frozen_spinach",
+      "name": "Frozen Spinach",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "frozen_green_beans",
+      "name": "Frozen Green Beans",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "frozen_stir_fry",
+      "name": "Frozen Stir-Fry Vegetables",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "frozen_strawberries",
+      "name": "Frozen Strawberries",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "frozen_blueberries",
+      "name": "Frozen Blueberries",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "frozen_mixed_berries",
+      "name": "Frozen Mixed Berries",
+      "category": "produce_frozen",
+      "purchaseUnit": "bag",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "cup"
+    },
+
+    {
+      "id": "tomatoes_diced",
+      "name": "Diced Tomatoes",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "tomatoes_crushed",
+      "name": "Crushed Tomatoes",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 28,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "tomatoes_whole",
+      "name": "Whole Peeled Tomatoes",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 28,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "tomato_sauce",
+      "name": "Tomato Sauce",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "tomato_paste",
+      "name": "Tomato Paste",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 6,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "green_chiles",
+      "name": "Diced Green Chiles",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 4,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "black_beans_canned",
+      "name": "Canned Black Beans",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "pinto_beans_canned",
+      "name": "Canned Pinto Beans",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "kidney_beans_canned",
+      "name": "Canned Kidney Beans",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "chickpeas_canned",
+      "name": "Canned Chickpeas",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "corn_canned",
+      "name": "Canned Corn",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "pumpkin_puree",
+      "name": "Pumpkin Purée",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "olives",
+      "name": "Black Olives",
+      "category": "canned",
+      "purchaseUnit": "can",
+      "baseQuantity": 6,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "pickles",
+      "name": "Dill Pickles",
+      "category": "canned",
+      "purchaseUnit": "jar",
+      "baseQuantity": 24,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "sauerkraut",
+      "name": "Sauerkraut",
+      "category": "canned",
+      "purchaseUnit": "jar",
+      "baseQuantity": 24,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "category": "canned",
+      "purchaseUnit": "jar",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "cup"
+    },
+
+    {
+      "id": "rice_white",
+      "name": "White Rice",
+      "category": "grains",
+      "purchaseUnit": "lb",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "rice_jasmine",
+      "name": "Jasmine Rice",
+      "category": "grains",
+      "purchaseUnit": "lb",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "rice_basmati",
+      "name": "Basmati Rice",
+      "category": "grains",
+      "purchaseUnit": "lb",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "rice_brown",
+      "name": "Brown Rice",
+      "category": "grains",
+      "purchaseUnit": "lb",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "spaghetti",
+      "name": "Spaghetti",
+      "category": "grains",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "penne",
+      "name": "Penne",
+      "category": "grains",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "rotini",
+      "name": "Rotini",
+      "category": "grains",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "elbow_macaroni",
+      "name": "Elbow Macaroni",
+      "category": "grains",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "egg_noodles",
+      "name": "Egg Noodles",
+      "category": "grains",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "lasagna_noodles",
+      "name": "Lasagna Noodles",
+      "category": "grains",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "rolled_oats",
+      "name": "Rolled Oats",
+      "category": "grains",
+      "purchaseUnit": "container",
+      "baseQuantity": 42,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "quick_oats",
+      "name": "Quick Oats",
+      "category": "grains",
+      "purchaseUnit": "container",
+      "baseQuantity": 42,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "quinoa",
+      "name": "Quinoa",
+      "category": "grains",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "couscous",
+      "name": "Couscous",
+      "category": "grains",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "breadcrumbs",
+      "name": "Breadcrumbs",
+      "category": "grains",
+      "purchaseUnit": "container",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "panko",
+      "name": "Panko Breadcrumbs",
+      "category": "grains",
+      "purchaseUnit": "container",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "cup"
+    },
+
+    {
+      "id": "flour_all_purpose",
+      "name": "All-Purpose Flour",
+      "category": "baking",
+      "purchaseUnit": "bag",
+      "baseQuantity": 5,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "flour_bread",
+      "name": "Bread Flour",
+      "category": "baking",
+      "purchaseUnit": "bag",
+      "baseQuantity": 5,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "flour_whole_wheat",
+      "name": "Whole Wheat Flour",
+      "category": "baking",
+      "purchaseUnit": "bag",
+      "baseQuantity": 5,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "cornmeal",
+      "name": "Cornmeal",
+      "category": "baking",
+      "purchaseUnit": "bag",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "sugar_granulated",
+      "name": "Granulated Sugar",
+      "category": "baking",
+      "purchaseUnit": "bag",
+      "baseQuantity": 4,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "sugar_brown_light",
+      "name": "Light Brown Sugar",
+      "category": "baking",
+      "purchaseUnit": "bag",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "sugar_brown_dark",
+      "name": "Dark Brown Sugar",
+      "category": "baking",
+      "purchaseUnit": "bag",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "powdered_sugar",
+      "name": "Powdered Sugar",
+      "category": "baking",
+      "purchaseUnit": "bag",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "baking_soda",
+      "name": "Baking Soda",
+      "category": "baking",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "baking_powder",
+      "name": "Baking Powder",
+      "category": "baking",
+      "purchaseUnit": "can",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "cornstarch",
+      "name": "Cornstarch",
+      "category": "baking",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "cocoa_powder",
+      "name": "Cocoa Powder",
+      "category": "baking",
+      "purchaseUnit": "container",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "chocolate_chips",
+      "name": "Chocolate Chips",
+      "category": "baking",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "vanilla_extract",
+      "name": "Vanilla Extract",
+      "category": "baking",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 2,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "active_dry_yeast",
+      "name": "Active Dry Yeast",
+      "category": "baking",
+      "purchaseUnit": "packet",
+      "baseQuantity": 0.25,
+      "defaultRecipeUnit": "packet"
+    },
+    {
+      "id": "instant_yeast",
+      "name": "Instant Yeast",
+      "category": "baking",
+      "purchaseUnit": "packet",
+      "baseQuantity": 0.25,
+      "defaultRecipeUnit": "packet"
+    },
+
+    {
+      "id": "vegetable_oil",
+      "name": "Vegetable Oil",
+      "category": "oils",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 48,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "canola_oil",
+      "name": "Canola Oil",
+      "category": "oils",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 48,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "olive_oil_extra_virgin",
+      "name": "Extra Virgin Olive Oil",
+      "category": "oils",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 25,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "olive_oil_light",
+      "name": "Light Olive Oil",
+      "category": "oils",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 25,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "sesame_oil",
+      "name": "Sesame Oil",
+      "category": "oils",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "coconut_oil",
+      "name": "Coconut Oil",
+      "category": "oils",
+      "purchaseUnit": "jar",
+      "baseQuantity": 14,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "cooking_spray",
+      "name": "Cooking Spray",
+      "category": "oils",
+      "purchaseUnit": "can",
+      "baseQuantity": 6,
+      "defaultRecipeUnit": "other"
+    },
+
+    {
+      "id": "white_vinegar",
+      "name": "White Vinegar",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 32,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "apple_cider_vinegar",
+      "name": "Apple Cider Vinegar",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 32,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "red_wine_vinegar",
+      "name": "Red Wine Vinegar",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "balsamic_vinegar",
+      "name": "Balsamic Vinegar",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "rice_vinegar",
+      "name": "Rice Vinegar",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "soy_sauce",
+      "name": "Soy Sauce",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "soy_sauce_low_sodium",
+      "name": "Low-Sodium Soy Sauce",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "worcestershire",
+      "name": "Worcestershire Sauce",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 10,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "hot_sauce",
+      "name": "Hot Sauce",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "sriracha",
+      "name": "Sriracha",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 17,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "ketchup",
+      "name": "Ketchup",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 20,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "mustard_yellow",
+      "name": "Yellow Mustard",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 14,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "mustard_dijon",
+      "name": "Dijon Mustard",
+      "category": "condiments",
+      "purchaseUnit": "jar",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "mayonnaise",
+      "name": "Mayonnaise",
+      "category": "condiments",
+      "purchaseUnit": "jar",
+      "baseQuantity": 30,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "bbq_sauce",
+      "name": "BBQ Sauce",
+      "category": "condiments",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 18,
+      "defaultRecipeUnit": "tbsp"
+    },
+
+    {
+      "id": "chicken_broth",
+      "name": "Chicken Broth",
+      "category": "broths",
+      "purchaseUnit": "qt",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "chicken_broth_low_sodium",
+      "name": "Low-Sodium Chicken Broth",
+      "category": "broths",
+      "purchaseUnit": "qt",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "beef_broth",
+      "name": "Beef Broth",
+      "category": "broths",
+      "purchaseUnit": "qt",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "vegetable_broth",
+      "name": "Vegetable Broth",
+      "category": "broths",
+      "purchaseUnit": "qt",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "bouillon_cubes",
+      "name": "Bouillon Cubes",
+      "category": "broths",
+      "purchaseUnit": "box",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "bouillon_powder",
+      "name": "Bouillon Powder",
+      "category": "broths",
+      "purchaseUnit": "jar",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "cream_mushroom_soup",
+      "name": "Cream of Mushroom Soup",
+      "category": "broths",
+      "purchaseUnit": "can",
+      "baseQuantity": 10.5,
+      "defaultRecipeUnit": "can"
+    },
+    {
+      "id": "cream_chicken_soup",
+      "name": "Cream of Chicken Soup",
+      "category": "broths",
+      "purchaseUnit": "can",
+      "baseQuantity": 10.5,
+      "defaultRecipeUnit": "can"
+    },
+
+    {
+      "id": "black_beans_dry",
+      "name": "Dry Black Beans",
+      "category": "beans",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "pinto_beans_dry",
+      "name": "Dry Pinto Beans",
+      "category": "beans",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "kidney_beans_dry",
+      "name": "Dry Kidney Beans",
+      "category": "beans",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "lentils",
+      "name": "Lentils",
+      "category": "beans",
+      "purchaseUnit": "lb",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "cup"
+    },
+
+    {
+      "id": "peanut_butter_creamy",
+      "name": "Creamy Peanut Butter",
+      "category": "nuts",
+      "purchaseUnit": "jar",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "peanut_butter_crunchy",
+      "name": "Crunchy Peanut Butter",
+      "category": "nuts",
+      "purchaseUnit": "jar",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "almonds",
+      "name": "Almonds",
+      "category": "nuts",
+      "purchaseUnit": "bag",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "walnuts",
+      "name": "Walnuts",
+      "category": "nuts",
+      "purchaseUnit": "bag",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "pecans",
+      "name": "Pecans",
+      "category": "nuts",
+      "purchaseUnit": "bag",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "oz"
+    },
+    {
+      "id": "sesame_seeds",
+      "name": "Sesame Seeds",
+      "category": "nuts",
+      "purchaseUnit": "jar",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "chia_seeds",
+      "name": "Chia Seeds",
+      "category": "nuts",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "tbsp"
+    },
+
+    {
+      "id": "bread_white",
+      "name": "White Bread",
+      "category": "bread",
+      "purchaseUnit": "loaf",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "slice"
+    },
+    {
+      "id": "bread_whole_wheat",
+      "name": "Whole Wheat Bread",
+      "category": "bread",
+      "purchaseUnit": "loaf",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "slice"
+    },
+    {
+      "id": "bread_sourdough",
+      "name": "Sourdough Bread",
+      "category": "bread",
+      "purchaseUnit": "loaf",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "slice"
+    },
+    {
+      "id": "hamburger_buns",
+      "name": "Hamburger Buns",
+      "category": "bread",
+      "purchaseUnit": "package",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "hot_dog_buns",
+      "name": "Hot Dog Buns",
+      "category": "bread",
+      "purchaseUnit": "package",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "flour_tortilla_8",
+      "name": "8-inch Flour Tortillas",
+      "category": "bread",
+      "purchaseUnit": "package",
+      "baseQuantity": 10,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "flour_tortilla_10",
+      "name": "10-inch Flour Tortillas",
+      "category": "bread",
+      "purchaseUnit": "package",
+      "baseQuantity": 8,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "corn_tortillas",
+      "name": "Corn Tortillas",
+      "category": "bread",
+      "purchaseUnit": "package",
+      "baseQuantity": 30,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "pita",
+      "name": "Pita Bread",
+      "category": "bread",
+      "purchaseUnit": "package",
+      "baseQuantity": 6,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "english_muffins",
+      "name": "English Muffins",
+      "category": "bread",
+      "purchaseUnit": "package",
+      "baseQuantity": 6,
+      "defaultRecipeUnit": "count"
+    },
+
+    {
+      "id": "salt_table",
+      "name": "Table Salt",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 26,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "salt_kosher",
+      "name": "Kosher Salt",
+      "category": "spices",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "salt_sea",
+      "name": "Sea Salt",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "black_pepper_ground",
+      "name": "Ground Black Pepper",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 4,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "black_pepper_whole",
+      "name": "Whole Black Peppercorns",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 4,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "garlic_powder",
+      "name": "Garlic Powder",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "onion_powder",
+      "name": "Onion Powder",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "paprika",
+      "name": "Paprika",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "smoked_paprika",
+      "name": "Smoked Paprika",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "chili_powder",
+      "name": "Chili Powder",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "cumin",
+      "name": "Ground Cumin",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "cinnamon",
+      "name": "Ground Cinnamon",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "italian_seasoning",
+      "name": "Italian Seasoning",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 3,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "oregano",
+      "name": "Dried Oregano",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 1.5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "basil_dried",
+      "name": "Dried Basil",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 1.5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "thyme_dried",
+      "name": "Dried Thyme",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 1.5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "rosemary_dried",
+      "name": "Dried Rosemary",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 1.5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "parsley_dried",
+      "name": "Dried Parsley",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 1.5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "red_pepper_flakes",
+      "name": "Red Pepper Flakes",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 1.5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "cayenne",
+      "name": "Cayenne Pepper",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 1.5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "nutmeg",
+      "name": "Ground Nutmeg",
+      "category": "spices",
+      "purchaseUnit": "container",
+      "baseQuantity": 1.5,
+      "defaultRecipeUnit": "tsp"
+    },
+    {
+      "id": "bay_leaves",
+      "name": "Bay Leaves",
+      "category": "spices",
+      "purchaseUnit": "package",
+      "baseQuantity": 20,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "taco_seasoning",
+      "name": "Taco Seasoning",
+      "category": "spices",
+      "purchaseUnit": "packet",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "packet"
+    },
+    {
+      "id": "ranch_seasoning",
+      "name": "Ranch Seasoning",
+      "category": "spices",
+      "purchaseUnit": "packet",
+      "baseQuantity": 1,
+      "defaultRecipeUnit": "packet"
+    },
+
+    {
+      "id": "corn_cereal",
+      "name": "Corn Cereal",
+      "category": "breakfast",
+      "purchaseUnit": "box",
+      "baseQuantity": 18,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "granola",
+      "name": "Granola",
+      "category": "breakfast",
+      "purchaseUnit": "bag",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "pancake_mix",
+      "name": "Pancake Mix",
+      "category": "breakfast",
+      "purchaseUnit": "box",
+      "baseQuantity": 32,
+      "defaultRecipeUnit": "cup"
+    },
+    {
+      "id": "maple_syrup",
+      "name": "Maple/Pancake Syrup",
+      "category": "breakfast",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 24,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "grape_jelly",
+      "name": "Grape Jelly",
+      "category": "breakfast",
+      "purchaseUnit": "jar",
+      "baseQuantity": 18,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "strawberry_jam",
+      "name": "Strawberry Jam",
+      "category": "breakfast",
+      "purchaseUnit": "jar",
+      "baseQuantity": 18,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "category": "breakfast",
+      "purchaseUnit": "bottle",
+      "baseQuantity": 12,
+      "defaultRecipeUnit": "tbsp"
+    },
+    {
+      "id": "raisins",
+      "name": "Raisins",
+      "category": "breakfast",
+      "purchaseUnit": "bag",
+      "baseQuantity": 15,
+      "defaultRecipeUnit": "cup"
+    },
+
+    {
+      "id": "saltines",
+      "name": "Saltine Crackers",
+      "category": "snacks",
+      "purchaseUnit": "box",
+      "baseQuantity": 16,
+      "defaultRecipeUnit": "count"
+    },
+    {
+      "id": "tortilla_chips",
+      "name": "Tortilla Chips",
+      "category": "snacks",
+      "purchaseUnit": "bag",
+      "baseQuantity": 13,
+      "defaultRecipeUnit": "oz"
+    }
+  ],
+  "recipes": [],
+  "meals": []
+}
