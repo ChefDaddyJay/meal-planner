@@ -4,64 +4,65 @@ export type Category = {
   color: string;
 };
 
-export type IngredientCategoryId =
-  | "dairy"
-  | "protein"
-  | "produce_fresh"
-  | "produce_frozen"
-  | "canned"
-  | "grains"
-  | "baking"
-  | "oils"
-  | "condiments"
-  | "broths"
-  | "beans"
-  | "nuts"
-  | "bread"
-  | "spices"
-  | "breakfast"
-  | "snacks";
+export const IngredientCategories = [
+  "dairy",
+  "protein",
+  "produce_fresh",
+  "produce_frozen",
+  "canned",
+  "grains",
+  "baking",
+  "oils",
+  "condiments",
+  "broths",
+  "beans",
+  "nuts",
+  "bread",
+  "spices",
+  "breakfast",
+  "snacks",
+];
 
-export type Unit =
+export type IngredientCategoryId = (typeof IngredientCategories)[number];
+
+export const Units = [
   // Mass
-  | "oz"
-  | "lb"
-
+  "oz",
+  "lb",
   // Volume
-  | "tsp"
-  | "tbsp"
-  | "cup"
-  | "pt"
-  | "qt"
-  | "gal"
-
+  "tsp",
+  "tbsp",
+  "cup",
+  "pt",
+  "qt",
+  "gal",
   // Count / individual items
-  | "count"
-
+  "count",
   // Special/package units
-  | "can"
-  | "jar"
-  | "bottle"
-  | "bag"
-  | "box"
-  | "package"
-  | "packet"
-  | "bunch"
-  | "head"
-  | "loaf"
-  | "ear"
-  | "bulb"
-  | "stalk"
-  | "clove"
-  | "leaf"
-  | "fillet"
-  | "container"
-
+  "can",
+  "jar",
+  "bottle",
+  "bag",
+  "box",
+  "package",
+  "packet",
+  "bunch",
+  "head",
+  "loaf",
+  "ear",
+  "bulb",
+  "stalk",
+  "clove",
+  "leaf",
+  "fillet",
+  "container",
   // Recipe-specific units
-  | "slice"
-
+  "slice",
   // Fallback for unusual ingredients
-  | "other";
+  "other",
+];
+
+export type Unit = (typeof Units)[number];
 
 export type Ingredient = {
   id: string;

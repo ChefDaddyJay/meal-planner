@@ -13,10 +13,12 @@ import {
 
 type Props = {
   category: Category;
+  onPress: () => void;
+  itemCount?: number;
 };
 
-export default function CategoryCard({ category }: Props) {
-  const { container, button, text, image } = styles;
+export default function CategoryCard({ category, onPress, itemCount }: Props) {
+  const { container, button, text, image, bubble } = styles;
   const { id, name, color } = category;
   const [icon] = useState<ImageSourcePropType>(icons[id as keyof typeof icons]);
 
@@ -29,9 +31,14 @@ export default function CategoryCard({ category }: Props) {
         },
       ]}
     >
-      <Pressable style={button}>
+      <Pressable style={button} onPress={onPress}>
         {icon && <Image source={icon} style={image} />}
         <Text style={text}>{name}</Text>
+        {itemCount! > 0 && (
+          <View style={bubble}>
+            <Text>{itemCount}</Text>
+          </View>
+        )}
       </Pressable>
     </View>
   );
@@ -61,5 +68,17 @@ const styles = StyleSheet.create({
   image: {
     width: 48,
     height: 48,
+  },
+  bubble: {
+    width: 24,
+    height: 24,
+    borderRadius: 42,
+    borderWidth: 1,
+    backgroundColor: Themes.background,
+    position: "absolute",
+    bottom: -12,
+    right: -12,
+    alignItems: "center",
+    justifyContent: "center",
   },
 });
