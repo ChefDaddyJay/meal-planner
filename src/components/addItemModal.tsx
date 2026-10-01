@@ -1,39 +1,28 @@
 import { Themes } from "@/colors";
-import { Category, IngredientEntry } from "@/types";
 import { Modal, StyleSheet, View } from "react-native";
-import CategoryContents from "./categoryContents";
 import ModalTitle from "./modalTitle";
 
 type Props = {
+  title: string;
   isVisible: boolean;
-  category: Category;
-  ingredientList: IngredientEntry[];
   onClose: () => void;
-  onAdd: (ingredient: IngredientEntry) => void;
-  onRemove: (ingredient: IngredientEntry) => void;
+  children?: React.ReactNode;
 };
 
-export default function CategoryModal({
+export default function AddItemModal({
+  title,
   isVisible,
-  category,
-  ingredientList,
   onClose,
-  onAdd,
-  onRemove,
+  children,
 }: Props) {
   const { frame } = styles;
 
   return (
     <View>
       <Modal animationType="slide" transparent={true} visible={isVisible}>
-        <View style={[frame, { backgroundColor: category.color }]}>
-          <ModalTitle text={category.name} onClose={onClose} />
-          <CategoryContents
-            category={category}
-            contents={ingredientList}
-            add={onAdd}
-            remove={onRemove}
-          />
+        <View style={frame}>
+          <ModalTitle text={title} onClose={onClose} />
+          {children}
         </View>
       </Modal>
     </View>
@@ -48,6 +37,7 @@ const styles = StyleSheet.create({
     borderTopLeftRadius: 18,
     borderTopWidth: StyleSheet.hairlineWidth,
     borderTopColor: Themes.border,
+    backgroundColor: Themes.border,
     position: "absolute",
     bottom: 0,
   },

@@ -1,0 +1,2998 @@
+[
+  {
+    "name": "Scrambled Eggs and Toast",
+    "servings": 2,
+    "prepMinutes": 5,
+    "cookMinutes": 7,
+    "ingredients": [
+      {
+        "id": "eggs",
+        "name": "Eggs",
+        "category": "dairy",
+        "purchaseUnit": "count",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 4
+      },
+      {
+        "id": "milk_whole",
+        "name": "Whole Milk",
+        "category": "dairy",
+        "purchaseUnit": "gal",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "cup",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "butter_unsalted",
+        "name": "Unsalted Butter",
+        "category": "dairy",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      },
+      {
+        "id": "bread_whole_wheat",
+        "name": "Whole Wheat Bread",
+        "category": "bread",
+        "purchaseUnit": "loaf",
+        "baseQuantity": 20,
+        "defaultRecipeUnit": "slice",
+        "unit": "slice",
+        "amount": 4
+      },
+      {
+        "id": "salt_kosher",
+        "name": "Kosher Salt",
+        "category": "spices",
+        "purchaseUnit": "box",
+        "baseQuantity": 48,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.25
+      },
+      {
+        "id": "black_pepper_ground",
+        "name": "Ground Black Pepper",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.125
+      }
+    ],
+    "instructions": [
+      "Whisk eggs with milk, salt, and pepper.",
+      "Melt butter in a skillet over medium-low heat.",
+      "Add eggs and gently stir until softly set.",
+      "Toast bread and serve with the eggs."
+    ],
+    "notes": "Add spinach, mushrooms, or cheddar if available.",
+    "tags": [
+      "breakfast",
+      "quick",
+      "budget",
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Blueberry Oatmeal",
+    "servings": 2,
+    "prepMinutes": 3,
+    "cookMinutes": 7,
+    "ingredients": [
+      {
+        "id": "rolled_oats",
+        "name": "Rolled Oats",
+        "category": "grains",
+        "purchaseUnit": "container",
+        "baseQuantity": 18,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1
+      },
+      {
+        "id": "milk_whole",
+        "name": "Whole Milk",
+        "category": "dairy",
+        "purchaseUnit": "gal",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 2
+      },
+      {
+        "id": "frozen_mixed_berries",
+        "name": "Frozen Mixed Berries",
+        "category": "produce_frozen",
+        "purchaseUnit": "bag",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1
+      },
+      {
+        "id": "honey",
+        "name": "Honey",
+        "category": "breakfast",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "cinnamon",
+        "name": "Ground Cinnamon",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Combine oats, milk, and cinnamon in a saucepan.",
+      "Simmer until creamy, stirring occasionally.",
+      "Stir in berries and cook for another minute.",
+      "Divide into bowls and drizzle with honey."
+    ],
+    "notes": "Use water for part or all of the milk.",
+    "tags": [
+      "breakfast",
+      "quick",
+      "budget",
+      "vegetarian",
+      "meal-prep"
+    ]
+  },
+  {
+    "name": "Pancakes",
+    "servings": 4,
+    "prepMinutes": 5,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "pancake_mix",
+        "name": "Pancake Mix",
+        "category": "breakfast",
+        "purchaseUnit": "box",
+        "baseQuantity": 32,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 2
+      },
+      {
+        "id": "milk_whole",
+        "name": "Whole Milk",
+        "category": "dairy",
+        "purchaseUnit": "gal",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1.5
+      },
+      {
+        "id": "eggs",
+        "name": "Eggs",
+        "category": "dairy",
+        "purchaseUnit": "count",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "vegetable_oil",
+        "name": "Vegetable Oil",
+        "category": "oils",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 48,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      },
+      {
+        "id": "maple-syrup",
+        "name": "Maple Syrup",
+        "category": "breakfast",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 24,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 4
+      }
+    ],
+    "instructions": [
+      "Mix pancake mix, milk, egg, and oil just until combined.",
+      "Heat a lightly greased skillet over medium heat.",
+      "Cook small rounds until bubbles form, then flip.",
+      "Cook until golden and serve with syrup."
+    ],
+    "notes": "Do not overmix; a few small lumps are fine.",
+    "tags": [
+      "breakfast",
+      "budget",
+      "vegetarian",
+      "kid-friendly"
+    ]
+  },
+  {
+    "name": "Breakfast Burritos",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 12,
+    "ingredients": [
+      {
+        "id": "eggs",
+        "name": "Eggs",
+        "category": "dairy",
+        "purchaseUnit": "count",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 6
+      },
+      {
+        "id": "flour_tortilla_8",
+        "name": "8-inch Flour Tortillas",
+        "category": "bread",
+        "purchaseUnit": "package",
+        "baseQuantity": 10,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 4
+      },
+      {
+        "id": "cheddar_block",
+        "name": "Cheddar Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 4
+      },
+      {
+        "id": "potato_russet",
+        "name": "Russet Potatoes",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "bell-peppers",
+        "name": "Bell Peppers",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "onion_yellow",
+        "name": "Yellow Onion",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 0.5
+      },
+      {
+        "id": "salsa",
+        "name": "Salsa",
+        "category": "canned",
+        "purchaseUnit": "jar",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Dice potato, pepper, and onion.",
+      "Cook vegetables until tender and browned.",
+      "Add whisked eggs and cook until set.",
+      "Warm tortillas and fill with egg mixture, cheese, and salsa.",
+      "Roll into burritos."
+    ],
+    "notes": "Cooked bacon or sausage can be added.",
+    "tags": [
+      "breakfast",
+      "budget",
+      "meal-prep",
+      "kid-friendly"
+    ]
+  },
+  {
+    "name": "Berry Yogurt Parfaits",
+    "servings": 2,
+    "prepMinutes": 5,
+    "cookMinutes": 0,
+    "ingredients": [
+      {
+        "id": "greek_yogurt",
+        "name": "Greek Yogurt",
+        "category": "dairy",
+        "purchaseUnit": "container",
+        "baseQuantity": 32,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 2
+      },
+      {
+        "id": "frozen_mixed_berries",
+        "name": "Frozen Mixed Berries",
+        "category": "produce_frozen",
+        "purchaseUnit": "bag",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1
+      },
+      {
+        "id": "granola",
+        "name": "Granola",
+        "category": "breakfast",
+        "purchaseUnit": "bag",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1
+      },
+      {
+        "id": "honey",
+        "name": "Honey",
+        "category": "breakfast",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Thaw berries slightly if frozen solid.",
+      "Layer yogurt, berries, and granola.",
+      "Drizzle with honey and serve."
+    ],
+    "notes": "Keep granola separate until serving if making ahead.",
+    "tags": [
+      "breakfast",
+      "snack",
+      "quick",
+      "vegetarian",
+      "no-cook"
+    ]
+  },
+  {
+    "name": "Grilled Cheese and Tomato Soup",
+    "servings": 2,
+    "prepMinutes": 5,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "bread_white",
+        "name": "White Bread",
+        "category": "bread",
+        "purchaseUnit": "loaf",
+        "baseQuantity": 20,
+        "defaultRecipeUnit": "slice",
+        "unit": "slice",
+        "amount": 4
+      },
+      {
+        "id": "cheddar_block",
+        "name": "Cheddar Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 4
+      },
+      {
+        "id": "butter_unsalted",
+        "name": "Unsalted Butter",
+        "category": "dairy",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "tomato_sauce",
+        "name": "Tomato Sauce",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 15
+      },
+      {
+        "id": "chicken_broth",
+        "name": "Chicken Broth",
+        "category": "broths",
+        "purchaseUnit": "box",
+        "baseQuantity": 32,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1
+      },
+      {
+        "id": "milk_whole",
+        "name": "Whole Milk",
+        "category": "dairy",
+        "purchaseUnit": "gal",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 0.5
+      },
+      {
+        "id": "garlic_powder",
+        "name": "Garlic Powder",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.25
+      },
+      {
+        "id": "italian_seasoning",
+        "name": "Italian Seasoning",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Simmer tomato sauce, broth, milk, garlic powder, and Italian seasoning for 10 minutes.",
+      "Butter one side of each bread slice and place cheese between the unbuttered sides.",
+      "Cook sandwiches until golden and cheese melts.",
+      "Serve with hot soup."
+    ],
+    "notes": "Use vegetable broth for a vegetarian version.",
+    "tags": [
+      "lunch",
+      "dinner",
+      "comfort-food",
+      "vegetarian",
+      "budget",
+      "quick"
+    ]
+  },
+  {
+    "name": "Tuna Salad Sandwiches",
+    "servings": 2,
+    "prepMinutes": 10,
+    "cookMinutes": 0,
+    "ingredients": [
+      {
+        "id": "canned_tuna",
+        "name": "Canned Tuna",
+        "category": "protein",
+        "purchaseUnit": "can",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "oz",
+        "unit": "can",
+        "amount": 2
+      },
+      {
+        "id": "mayonnaise",
+        "name": "Mayonnaise",
+        "category": "condiments",
+        "purchaseUnit": "jar",
+        "baseQuantity": 30,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 4
+      },
+      {
+        "id": "mustard_yellow",
+        "name": "Yellow Mustard",
+        "category": "condiments",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 14,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      },
+      {
+        "id": "pickles",
+        "name": "Pickles",
+        "category": "canned",
+        "purchaseUnit": "jar",
+        "baseQuantity": 24,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 2
+      },
+      {
+        "id": "celery",
+        "name": "Celery",
+        "category": "produce_fresh",
+        "purchaseUnit": "stalk",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "stalk",
+        "unit": "stalk",
+        "amount": 1
+      },
+      {
+        "id": "bread_whole_wheat",
+        "name": "Whole Wheat Bread",
+        "category": "bread",
+        "purchaseUnit": "loaf",
+        "baseQuantity": 20,
+        "defaultRecipeUnit": "slice",
+        "unit": "slice",
+        "amount": 4
+      },
+      {
+        "id": "lettuce",
+        "name": "Lettuce",
+        "category": "produce_fresh",
+        "purchaseUnit": "head",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "head",
+        "unit": "leaf",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Drain tuna.",
+      "Chop pickles and celery.",
+      "Mix tuna, mayonnaise, mustard, pickles, and celery.",
+      "Serve on bread with lettuce."
+    ],
+    "notes": "Chopped onion can replace some of the celery.",
+    "tags": [
+      "lunch",
+      "quick",
+      "budget",
+      "high-protein",
+      "sandwich",
+      "no-cook"
+    ]
+  },
+  {
+    "name": "Chicken Salad Sandwiches",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "name": "Chicken Breast",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 12
+      },
+      {
+        "id": "mayonnaise",
+        "name": "Mayonnaise",
+        "category": "condiments",
+        "purchaseUnit": "jar",
+        "baseQuantity": 30,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 5
+      },
+      {
+        "id": "celery",
+        "name": "Celery",
+        "category": "produce_fresh",
+        "purchaseUnit": "stalk",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "stalk",
+        "unit": "stalk",
+        "amount": 1
+      },
+      {
+        "id": "pickles",
+        "name": "Pickles",
+        "category": "canned",
+        "purchaseUnit": "jar",
+        "baseQuantity": 24,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 3
+      },
+      {
+        "id": "mustard_yellow",
+        "name": "Yellow Mustard",
+        "category": "condiments",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 14,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      },
+      {
+        "id": "bread_whole_wheat",
+        "name": "Whole Wheat Bread",
+        "category": "bread",
+        "purchaseUnit": "loaf",
+        "baseQuantity": 20,
+        "defaultRecipeUnit": "slice",
+        "unit": "slice",
+        "amount": 8
+      },
+      {
+        "id": "lettuce",
+        "name": "Lettuce",
+        "category": "produce_fresh",
+        "purchaseUnit": "head",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "head",
+        "unit": "leaf",
+        "amount": 4
+      }
+    ],
+    "instructions": [
+      "Cook chicken until it reaches 165°F.",
+      "Cool and chop the chicken.",
+      "Mix with mayonnaise, mustard, celery, and pickles.",
+      "Serve on bread with lettuce."
+    ],
+    "notes": "Leftover cooked chicken works very well.",
+    "tags": [
+      "lunch",
+      "meal-prep",
+      "high-protein",
+      "sandwich",
+      "budget"
+    ]
+  },
+  {
+    "name": "Chicken Quesadillas",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "name": "Chicken Breast",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 12
+      },
+      {
+        "id": "flour_tortilla_8",
+        "name": "8-inch Flour Tortillas",
+        "category": "bread",
+        "purchaseUnit": "package",
+        "baseQuantity": 10,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 4
+      },
+      {
+        "id": "cheddar_block",
+        "name": "Cheddar Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 6
+      },
+      {
+        "id": "bell-peppers",
+        "name": "Bell Peppers",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "onion_yellow",
+        "name": "Yellow Onion",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 0.5
+      },
+      {
+        "id": "salsa",
+        "name": "Salsa",
+        "category": "canned",
+        "purchaseUnit": "jar",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 0.5
+      },
+      {
+        "id": "sour_cream",
+        "name": "Sour Cream",
+        "category": "dairy",
+        "purchaseUnit": "container",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 4
+      }
+    ],
+    "instructions": [
+      "Cook and slice the chicken.",
+      "Cook pepper and onion until tender.",
+      "Fill tortillas with cheese, chicken, and vegetables.",
+      "Cook folded tortillas until crisp and cheese melts.",
+      "Serve with salsa and sour cream."
+    ],
+    "notes": "Leftover chicken can replace freshly cooked chicken.",
+    "tags": [
+      "lunch",
+      "dinner",
+      "mexican-inspired",
+      "high-protein",
+      "kid-friendly",
+      "budget",
+      "quick"
+    ]
+  },
+  {
+    "name": "Black Bean Quesadillas",
+    "servings": 4,
+    "prepMinutes": 8,
+    "cookMinutes": 12,
+    "ingredients": [
+      {
+        "id": "black_beans_canned",
+        "name": "Canned Black Beans",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 15
+      },
+      {
+        "id": "flour_tortilla_8",
+        "name": "8-inch Flour Tortillas",
+        "category": "bread",
+        "purchaseUnit": "package",
+        "baseQuantity": 10,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 4
+      },
+      {
+        "id": "cheddar_block",
+        "name": "Cheddar Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 6
+      },
+      {
+        "id": "corn",
+        "name": "Corn",
+        "category": "produce_fresh",
+        "purchaseUnit": "ear",
+        "baseQuantity": 4,
+        "defaultRecipeUnit": "ear",
+        "unit": "ear",
+        "amount": 1
+      },
+      {
+        "id": "salsa",
+        "name": "Salsa",
+        "category": "canned",
+        "purchaseUnit": "jar",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 0.5
+      },
+      {
+        "id": "cumin",
+        "name": "Ground Cumin",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Drain and rinse beans.",
+      "Mix beans with corn, cumin, and a little salsa.",
+      "Fill tortillas with bean mixture and cheese.",
+      "Cook until crisp and cheese melts.",
+      "Serve with remaining salsa."
+    ],
+    "notes": "Canned corn works just as well as fresh.",
+    "tags": [
+      "lunch",
+      "dinner",
+      "vegetarian",
+      "budget",
+      "mexican-inspired",
+      "kid-friendly"
+    ]
+  },
+  {
+    "name": "Chicken Tacos",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "name": "Chicken Breast",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "corn_tortillas",
+        "name": "Corn Tortillas",
+        "category": "bread",
+        "purchaseUnit": "package",
+        "baseQuantity": 30,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 8
+      },
+      {
+        "id": "taco_seasoning",
+        "name": "Taco Seasoning",
+        "category": "spices",
+        "purchaseUnit": "packet",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "packet",
+        "unit": "packet",
+        "amount": 1
+      },
+      {
+        "id": "lettuce",
+        "name": "Lettuce",
+        "category": "produce_fresh",
+        "purchaseUnit": "head",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "head",
+        "unit": "leaf",
+        "amount": 4
+      },
+      {
+        "id": "tomatoes",
+        "name": "Tomatoes",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 4,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "cheddar_block",
+        "name": "Cheddar Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 4
+      },
+      {
+        "id": "sour_cream",
+        "name": "Sour Cream",
+        "category": "dairy",
+        "purchaseUnit": "container",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 4
+      },
+      {
+        "id": "lime",
+        "name": "Limes",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 4,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Cut chicken into bite-size pieces.",
+      "Cook with taco seasoning until done.",
+      "Warm tortillas.",
+      "Fill with chicken, lettuce, tomato, cheese, and sour cream.",
+      "Finish with lime juice."
+    ],
+    "notes": "Chicken thighs are a less expensive alternative.",
+    "tags": [
+      "dinner",
+      "mexican-inspired",
+      "high-protein",
+      "budget",
+      "quick",
+      "kid-friendly"
+    ]
+  },
+  {
+    "name": "Beef Tacos",
+    "servings": 4,
+    "prepMinutes": 5,
+    "cookMinutes": 12,
+    "ingredients": [
+      {
+        "id": "ground_beef_90",
+        "name": "Ground Beef 90/10",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "corn_tortillas",
+        "name": "Corn Tortillas",
+        "category": "bread",
+        "purchaseUnit": "package",
+        "baseQuantity": 30,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 8
+      },
+      {
+        "id": "taco_seasoning",
+        "name": "Taco Seasoning",
+        "category": "spices",
+        "purchaseUnit": "packet",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "packet",
+        "unit": "packet",
+        "amount": 1
+      },
+      {
+        "id": "lettuce",
+        "name": "Lettuce",
+        "category": "produce_fresh",
+        "purchaseUnit": "head",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "head",
+        "unit": "leaf",
+        "amount": 4
+      },
+      {
+        "id": "tomatoes",
+        "name": "Tomatoes",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 4,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "cheddar_block",
+        "name": "Cheddar Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 4
+      },
+      {
+        "id": "salsa",
+        "name": "Salsa",
+        "category": "canned",
+        "purchaseUnit": "jar",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Brown beef and drain excess fat if needed.",
+      "Add taco seasoning and required water.",
+      "Simmer until thickened.",
+      "Warm tortillas and fill with beef, lettuce, tomato, cheese, and salsa."
+    ],
+    "notes": "",
+    "tags": [
+      "dinner",
+      "mexican-inspired",
+      "high-protein",
+      "budget",
+      "quick",
+      "kid-friendly"
+    ]
+  },
+  {
+    "name": "Beef and Bean Chili",
+    "servings": 6,
+    "prepMinutes": 10,
+    "cookMinutes": 40,
+    "ingredients": [
+      {
+        "id": "ground_beef_90",
+        "name": "Ground Beef 90/10",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "onion_yellow",
+        "name": "Yellow Onion",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "diced-tomatoes",
+        "name": "Canned Diced Tomatoes",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 15
+      },
+      {
+        "id": "kidney_beans_canned",
+        "name": "Canned Kidney Beans",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 15
+      },
+      {
+        "id": "black_beans_canned",
+        "name": "Canned Black Beans",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 15
+      },
+      {
+        "id": "tomato_paste",
+        "name": "Tomato Paste",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 6,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "chili_powder",
+        "name": "Chili Powder",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 2
+      },
+      {
+        "id": "cumin",
+        "name": "Ground Cumin",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      },
+      {
+        "id": "garlic",
+        "name": "Garlic",
+        "category": "produce_fresh",
+        "purchaseUnit": "bulb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "clove",
+        "unit": "clove",
+        "amount": 2
+      },
+      {
+        "id": "beef_broth",
+        "name": "Beef Broth",
+        "category": "broths",
+        "purchaseUnit": "box",
+        "baseQuantity": 32,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Brown beef and onion in a large pot.",
+      "Add garlic and cook briefly.",
+      "Stir in tomatoes, beans, tomato paste, broth, chili powder, and cumin.",
+      "Simmer uncovered for 30 to 40 minutes.",
+      "Taste and adjust seasoning."
+    ],
+    "notes": "Excellent for freezing; chili thickens as it cools.",
+    "tags": [
+      "dinner",
+      "soup",
+      "high-protein",
+      "budget",
+      "meal-prep",
+      "freezer-friendly",
+      "one-pot"
+    ]
+  },
+  {
+    "name": "Spaghetti with Meat Sauce",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 30,
+    "ingredients": [
+      {
+        "id": "spaghetti",
+        "name": "Spaghetti",
+        "category": "grains",
+        "purchaseUnit": "box",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 12
+      },
+      {
+        "id": "ground_beef_90",
+        "name": "Ground Beef 90/10",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "onion_yellow",
+        "name": "Yellow Onion",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "garlic",
+        "name": "Garlic",
+        "category": "produce_fresh",
+        "purchaseUnit": "bulb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "clove",
+        "unit": "clove",
+        "amount": 2
+      },
+      {
+        "id": "tomato_sauce",
+        "name": "Tomato Sauce",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 15
+      },
+      {
+        "id": "tomato_paste",
+        "name": "Tomato Paste",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 6,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      },
+      {
+        "id": "italian_seasoning",
+        "name": "Italian Seasoning",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      },
+      {
+        "id": "parmesan",
+        "name": "Parmesan Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Cook spaghetti according to package directions.",
+      "Brown beef and onion.",
+      "Add garlic and cook briefly.",
+      "Add tomato sauce, tomato paste, and Italian seasoning.",
+      "Simmer 15 to 20 minutes.",
+      "Serve over spaghetti with Parmesan."
+    ],
+    "notes": "Double the sauce and freeze the extra.",
+    "tags": [
+      "dinner",
+      "pasta",
+      "high-protein",
+      "budget",
+      "meal-prep",
+      "freezer-friendly"
+    ]
+  },
+  {
+    "name": "Creamy Chicken Alfredo",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 25,
+    "ingredients": [
+      {
+        "id": "penne",
+        "name": "Penne",
+        "category": "grains",
+        "purchaseUnit": "box",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 12
+      },
+      {
+        "id": "chicken_breast",
+        "name": "Chicken Breast",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "butter_unsalted",
+        "name": "Unsalted Butter",
+        "category": "dairy",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "milk_whole",
+        "name": "Whole Milk",
+        "category": "dairy",
+        "purchaseUnit": "gal",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1
+      },
+      {
+        "id": "cream_cheese",
+        "name": "Cream Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 4
+      },
+      {
+        "id": "parmesan",
+        "name": "Parmesan Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 3
+      },
+      {
+        "id": "garlic",
+        "name": "Garlic",
+        "category": "produce_fresh",
+        "purchaseUnit": "bulb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "clove",
+        "unit": "clove",
+        "amount": 2
+      },
+      {
+        "id": "broccoli",
+        "name": "Broccoli",
+        "category": "produce_fresh",
+        "purchaseUnit": "head",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "head",
+        "unit": "head",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Cook pasta, adding broccoli during the final few minutes.",
+      "Cook seasoned chicken and slice it.",
+      "Melt butter and briefly cook garlic.",
+      "Add milk and cream cheese and stir until smooth.",
+      "Stir in Parmesan and simmer gently.",
+      "Toss pasta and broccoli with sauce and top with chicken."
+    ],
+    "notes": "Avoid aggressively boiling the cheese sauce or it may separate.",
+    "tags": [
+      "dinner",
+      "pasta",
+      "chicken",
+      "comfort-food",
+      "high-protein"
+    ]
+  },
+  {
+    "name": "Baked Ziti",
+    "servings": 6,
+    "prepMinutes": 15,
+    "cookMinutes": 35,
+    "ingredients": [
+      {
+        "id": "penne",
+        "name": "Penne",
+        "category": "grains",
+        "purchaseUnit": "box",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "italian_sausage",
+        "name": "Italian Sausage",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "tomato_sauce",
+        "name": "Tomato Sauce",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 24
+      },
+      {
+        "id": "mozzarella",
+        "name": "Mozzarella Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 8
+      },
+      {
+        "id": "parmesan",
+        "name": "Parmesan Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 2
+      },
+      {
+        "id": "italian_seasoning",
+        "name": "Italian Seasoning",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      },
+      {
+        "id": "garlic",
+        "name": "Garlic",
+        "category": "produce_fresh",
+        "purchaseUnit": "bulb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "clove",
+        "unit": "clove",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Cook pasta until just shy of tender.",
+      "Brown sausage and add garlic.",
+      "Add tomato sauce and Italian seasoning and simmer 10 minutes.",
+      "Combine pasta with most of the sauce and mozzarella.",
+      "Transfer to a baking dish and top with remaining sauce, mozzarella, and Parmesan.",
+      "Bake at 375°F until bubbling and browned."
+    ],
+    "notes": "Rest 5 to 10 minutes before serving.",
+    "tags": [
+      "dinner",
+      "pasta",
+      "baked",
+      "comfort-food",
+      "budget",
+      "freezer-friendly"
+    ]
+  },
+  {
+    "name": "Easy Mac and Cheese",
+    "servings": 4,
+    "prepMinutes": 5,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "elbow_macaroni",
+        "name": "Elbow Macaroni",
+        "category": "grains",
+        "purchaseUnit": "box",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 8
+      },
+      {
+        "id": "butter_unsalted",
+        "name": "Unsalted Butter",
+        "category": "dairy",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "flour_all_purpose",
+        "name": "All-Purpose Flour",
+        "category": "baking",
+        "purchaseUnit": "bag",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "cup",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "milk_whole",
+        "name": "Whole Milk",
+        "category": "dairy",
+        "purchaseUnit": "gal",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 2
+      },
+      {
+        "id": "cheddar_block",
+        "name": "Cheddar Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 6
+      },
+      {
+        "id": "salt_kosher",
+        "name": "Kosher Salt",
+        "category": "spices",
+        "purchaseUnit": "box",
+        "baseQuantity": 48,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      },
+      {
+        "id": "black_pepper_ground",
+        "name": "Ground Black Pepper",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.25
+      }
+    ],
+    "instructions": [
+      "Cook macaroni and drain.",
+      "Melt butter and whisk in flour; cook 1 minute.",
+      "Gradually whisk in milk and simmer until slightly thickened.",
+      "Remove from heat and stir in cheddar.",
+      "Combine with macaroni and season."
+    ],
+    "notes": "Add broccoli, peas, or leftover chicken for a fuller meal.",
+    "tags": [
+      "dinner",
+      "vegetarian",
+      "comfort-food",
+      "budget",
+      "kid-friendly",
+      "quick"
+    ]
+  },
+  {
+    "name": "Chicken and Vegetable Stir-Fry",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "name": "Chicken Breast",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "frozen_mixed_vegetables",
+        "name": "Frozen Mixed Vegetables",
+        "category": "produce_frozen",
+        "purchaseUnit": "bag",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "bell-peppers",
+        "name": "Bell Peppers",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "soy_sauce",
+        "name": "Soy Sauce",
+        "category": "condiments",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 4
+      },
+      {
+        "id": "sesame_oil",
+        "name": "Sesame Oil",
+        "category": "oils",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      },
+      {
+        "id": "garlic",
+        "name": "Garlic",
+        "category": "produce_fresh",
+        "purchaseUnit": "bulb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "clove",
+        "unit": "clove",
+        "amount": 2
+      },
+      {
+        "id": "red_pepper_flakes",
+        "name": "Red Pepper Flakes",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.25
+      },
+      {
+        "id": "rice_white",
+        "name": "White Rice",
+        "category": "grains",
+        "purchaseUnit": "bag",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Cook or reheat rice.",
+      "Cook bite-size chicken in a hot skillet.",
+      "Add peppers and frozen vegetables and stir-fry until crisp-tender.",
+      "Add garlic, soy sauce, sesame oil, and red pepper flakes.",
+      "Serve over rice."
+    ],
+    "notes": "Swap the frozen vegetables for broccoli, peas, or corn.",
+    "tags": [
+      "dinner",
+      "stir-fry",
+      "rice",
+      "high-protein",
+      "quick",
+      "budget",
+      "meal-prep"
+    ]
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "rice_white",
+        "name": "White Rice",
+        "category": "grains",
+        "purchaseUnit": "bag",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 3
+      },
+      {
+        "id": "chicken_breast",
+        "name": "Chicken Breast",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 8
+      },
+      {
+        "id": "eggs",
+        "name": "Eggs",
+        "category": "dairy",
+        "purchaseUnit": "count",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 2
+      },
+      {
+        "id": "frozen_peas",
+        "name": "Frozen Peas",
+        "category": "produce_frozen",
+        "purchaseUnit": "bag",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "oz",
+        "unit": "cup",
+        "amount": 1
+      },
+      {
+        "id": "carrots",
+        "name": "Carrots",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 6,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "onion_yellow",
+        "name": "Yellow Onion",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 0.5
+      },
+      {
+        "id": "soy_sauce",
+        "name": "Soy Sauce",
+        "category": "condiments",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 3
+      },
+      {
+        "id": "sesame_oil",
+        "name": "Sesame Oil",
+        "category": "oils",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Use cold cooked rice if possible.",
+      "Cook diced chicken and set aside.",
+      "Cook onion and carrot, then add peas.",
+      "Scramble eggs in the same skillet.",
+      "Add rice and chicken and stir-fry until hot.",
+      "Add soy sauce and sesame oil."
+    ],
+    "notes": "Cold leftover rice produces the best texture.",
+    "tags": [
+      "dinner",
+      "rice",
+      "high-protein",
+      "budget",
+      "meal-prep",
+      "leftovers"
+    ]
+  },
+  {
+    "name": "Sheet-Pan Chicken, Potatoes, and Carrots",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 40,
+    "ingredients": [
+      {
+        "id": "chicken_thigh",
+        "name": "Chicken Thighs",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 24
+      },
+      {
+        "id": "potato_russet",
+        "name": "Russet Potatoes",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 3
+      },
+      {
+        "id": "carrots",
+        "name": "Carrots",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 6,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 3
+      },
+      {
+        "id": "onion_yellow",
+        "name": "Yellow Onion",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "olive_oil_extra_virgin",
+        "name": "Extra Virgin Olive Oil",
+        "category": "oils",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 33,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "paprika",
+        "name": "Paprika",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      },
+      {
+        "id": "garlic_powder",
+        "name": "Garlic Powder",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      },
+      {
+        "id": "thyme_dried",
+        "name": "Dried Thyme",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      },
+      {
+        "id": "salt_kosher",
+        "name": "Kosher Salt",
+        "category": "spices",
+        "purchaseUnit": "box",
+        "baseQuantity": 48,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.75
+      },
+      {
+        "id": "black_pepper_ground",
+        "name": "Ground Black Pepper",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.25
+      }
+    ],
+    "instructions": [
+      "Heat oven to 425°F.",
+      "Cut vegetables into similar-sized pieces and toss with oil and half the seasonings.",
+      "Season chicken and arrange everything on a sheet pan.",
+      "Roast until vegetables are tender and chicken reaches 165°F."
+    ],
+    "notes": "Leave space between pieces so the vegetables roast instead of steam.",
+    "tags": [
+      "dinner",
+      "one-pan",
+      "chicken",
+      "budget",
+      "meal-prep"
+    ]
+  },
+  {
+    "name": "Pork Chops with Mashed Potatoes",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 30,
+    "ingredients": [
+      {
+        "id": "pork_chops",
+        "name": "Pork Chops",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 2,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 24
+      },
+      {
+        "id": "potato_russet",
+        "name": "Russet Potatoes",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 4
+      },
+      {
+        "id": "butter_unsalted",
+        "name": "Unsalted Butter",
+        "category": "dairy",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 3
+      },
+      {
+        "id": "milk_whole",
+        "name": "Whole Milk",
+        "category": "dairy",
+        "purchaseUnit": "gal",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 0.5
+      },
+      {
+        "id": "garlic",
+        "name": "Garlic",
+        "category": "produce_fresh",
+        "purchaseUnit": "bulb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "clove",
+        "unit": "clove",
+        "amount": 2
+      },
+      {
+        "id": "olive_oil_extra_virgin",
+        "name": "Extra Virgin Olive Oil",
+        "category": "oils",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 33,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      },
+      {
+        "id": "paprika",
+        "name": "Paprika",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      },
+      {
+        "id": "thyme_dried",
+        "name": "Dried Thyme",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Boil cubed potatoes until tender.",
+      "Season pork chops with paprika, thyme, salt, and pepper.",
+      "Sear pork chops in olive oil until cooked through.",
+      "Mash potatoes with butter, milk, and garlic.",
+      "Rest pork chops briefly before serving."
+    ],
+    "notes": "Use a thermometer and avoid overcooking the pork.",
+    "tags": [
+      "dinner",
+      "pork",
+      "comfort-food",
+      "budget",
+      "high-protein"
+    ]
+  },
+  {
+    "name": "Garlic Butter Shrimp Pasta",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "spaghetti",
+        "name": "Spaghetti",
+        "category": "grains",
+        "purchaseUnit": "box",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 12
+      },
+      {
+        "id": "shrimp",
+        "name": "Shrimp",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "butter_unsalted",
+        "name": "Unsalted Butter",
+        "category": "dairy",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 3
+      },
+      {
+        "id": "garlic",
+        "name": "Garlic",
+        "category": "produce_fresh",
+        "purchaseUnit": "bulb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "clove",
+        "unit": "clove",
+        "amount": 3
+      },
+      {
+        "id": "parmesan",
+        "name": "Parmesan Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 2
+      },
+      {
+        "id": "lemon",
+        "name": "Lemons",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 4,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "parsley",
+        "name": "Parsley",
+        "category": "produce_fresh",
+        "purchaseUnit": "bunch",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "bunch",
+        "unit": "bunch",
+        "amount": 0.25
+      },
+      {
+        "id": "red_pepper_flakes",
+        "name": "Red Pepper Flakes",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.25
+      }
+    ],
+    "instructions": [
+      "Cook pasta and reserve some pasta water.",
+      "Melt butter and briefly cook garlic and red pepper flakes.",
+      "Add shrimp and cook until opaque.",
+      "Add pasta, Parmesan, lemon juice, and pasta water.",
+      "Toss until glossy and finish with parsley."
+    ],
+    "notes": "Shrimp overcook quickly; remove from heat as soon as they are opaque.",
+    "tags": [
+      "dinner",
+      "pasta",
+      "seafood",
+      "quick",
+      "high-protein"
+    ]
+  },
+  {
+    "name": "Baked Salmon with Rice and Broccoli",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 25,
+    "ingredients": [
+      {
+        "id": "salmon",
+        "name": "Salmon",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 24
+      },
+      {
+        "id": "rice_brown",
+        "name": "Brown Rice",
+        "category": "grains",
+        "purchaseUnit": "bag",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 2
+      },
+      {
+        "id": "broccoli",
+        "name": "Broccoli",
+        "category": "produce_fresh",
+        "purchaseUnit": "head",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "head",
+        "unit": "head",
+        "amount": 1
+      },
+      {
+        "id": "olive_oil_extra_virgin",
+        "name": "Extra Virgin Olive Oil",
+        "category": "oils",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 33,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "lemon",
+        "name": "Lemons",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 4,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "garlic_powder",
+        "name": "Garlic Powder",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      },
+      {
+        "id": "paprika",
+        "name": "Paprika",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      },
+      {
+        "id": "salt_kosher",
+        "name": "Kosher Salt",
+        "category": "spices",
+        "purchaseUnit": "box",
+        "baseQuantity": 48,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      },
+      {
+        "id": "black_pepper_ground",
+        "name": "Ground Black Pepper",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.25
+      }
+    ],
+    "instructions": [
+      "Heat oven to 400°F and cook rice.",
+      "Brush salmon with olive oil and season.",
+      "Bake salmon until it flakes easily, about 12 to 15 minutes.",
+      "Steam or roast broccoli.",
+      "Serve salmon with rice and broccoli and finish with lemon."
+    ],
+    "notes": "Keep the salmon moist by avoiding unnecessary overcooking.",
+    "tags": [
+      "dinner",
+      "seafood",
+      "high-protein",
+      "meal-prep",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Chicken Noodle Soup",
+    "servings": 6,
+    "prepMinutes": 15,
+    "cookMinutes": 35,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "name": "Chicken Breast",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "egg_noodles",
+        "name": "Egg Noodles",
+        "category": "grains",
+        "purchaseUnit": "bag",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 8
+      },
+      {
+        "id": "chicken_broth",
+        "name": "Chicken Broth",
+        "category": "broths",
+        "purchaseUnit": "box",
+        "baseQuantity": 32,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 6
+      },
+      {
+        "id": "carrots",
+        "name": "Carrots",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 6,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 2
+      },
+      {
+        "id": "celery",
+        "name": "Celery",
+        "category": "produce_fresh",
+        "purchaseUnit": "stalk",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "stalk",
+        "unit": "stalk",
+        "amount": 2
+      },
+      {
+        "id": "onion_yellow",
+        "name": "Yellow Onion",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "garlic",
+        "name": "Garlic",
+        "category": "produce_fresh",
+        "purchaseUnit": "bulb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "clove",
+        "unit": "clove",
+        "amount": 2
+      },
+      {
+        "id": "thyme_dried",
+        "name": "Dried Thyme",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      },
+      {
+        "id": "black_pepper_ground",
+        "name": "Ground Black Pepper",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.25
+      }
+    ],
+    "instructions": [
+      "Cook diced onion, carrots, and celery until slightly softened.",
+      "Add garlic and cook briefly.",
+      "Add broth, chicken, and thyme and simmer until chicken is cooked.",
+      "Remove and shred chicken, then return it to the pot.",
+      "Add noodles and cook until tender.",
+      "Season to taste."
+    ],
+    "notes": "For better leftovers, cook noodles separately and add them to individual servings.",
+    "tags": [
+      "dinner",
+      "lunch",
+      "soup",
+      "comfort-food",
+      "budget",
+      "meal-prep"
+    ]
+  },
+  {
+    "name": "Creamy Potato Soup",
+    "servings": 6,
+    "prepMinutes": 10,
+    "cookMinutes": 30,
+    "ingredients": [
+      {
+        "id": "potato_russet",
+        "name": "Russet Potatoes",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 4
+      },
+      {
+        "id": "onion_yellow",
+        "name": "Yellow Onion",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "celery",
+        "name": "Celery",
+        "category": "produce_fresh",
+        "purchaseUnit": "stalk",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "stalk",
+        "unit": "stalk",
+        "amount": 2
+      },
+      {
+        "id": "butter_unsalted",
+        "name": "Unsalted Butter",
+        "category": "dairy",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "flour_all_purpose",
+        "name": "All-Purpose Flour",
+        "category": "baking",
+        "purchaseUnit": "bag",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "cup",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "chicken_broth",
+        "name": "Chicken Broth",
+        "category": "broths",
+        "purchaseUnit": "box",
+        "baseQuantity": 32,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 4
+      },
+      {
+        "id": "milk_whole",
+        "name": "Whole Milk",
+        "category": "dairy",
+        "purchaseUnit": "gal",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 2
+      },
+      {
+        "id": "cheddar_block",
+        "name": "Cheddar Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Cook onion and celery in butter until softened.",
+      "Stir in flour and cook for 1 minute.",
+      "Gradually whisk in broth and milk.",
+      "Add potatoes and simmer until tender.",
+      "Mash some potatoes against the pot to thicken the soup.",
+      "Stir in cheddar and season."
+    ],
+    "notes": "Use vegetable broth for a vegetarian version.",
+    "tags": [
+      "lunch",
+      "dinner",
+      "soup",
+      "vegetarian",
+      "comfort-food",
+      "budget"
+    ]
+  },
+  {
+    "name": "Chickpea Salad Pitas",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 0,
+    "ingredients": [
+      {
+        "id": "chickpeas",
+        "name": "Chickpeas",
+        "category": "canned",
+        "purchaseUnit": "can",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 15
+      },
+      {
+        "id": "mayonnaise",
+        "name": "Mayonnaise",
+        "category": "condiments",
+        "purchaseUnit": "jar",
+        "baseQuantity": 30,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 3
+      },
+      {
+        "id": "mustard_dijon",
+        "name": "Dijon Mustard",
+        "category": "condiments",
+        "purchaseUnit": "jar",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      },
+      {
+        "id": "cucumber",
+        "name": "Cucumber",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 2,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "tomatoes",
+        "name": "Tomatoes",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 4,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "lettuce",
+        "name": "Lettuce",
+        "category": "produce_fresh",
+        "purchaseUnit": "head",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "head",
+        "unit": "leaf",
+        "amount": 4
+      },
+      {
+        "id": "pita",
+        "name": "Pita",
+        "category": "bread",
+        "purchaseUnit": "package",
+        "baseQuantity": 6,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 4
+      }
+    ],
+    "instructions": [
+      "Drain and rinse chickpeas.",
+      "Mash about half with a fork and leave the rest whole.",
+      "Mix with mayonnaise and Dijon.",
+      "Dice cucumber and tomato and fold them in.",
+      "Fill pitas with the mixture and lettuce."
+    ],
+    "notes": "Greek yogurt can replace some or all of the mayonnaise.",
+    "tags": [
+      "lunch",
+      "vegetarian",
+      "quick",
+      "budget",
+      "no-cook"
+    ]
+  },
+  {
+    "name": "Loaded Baked Potatoes",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 50,
+    "ingredients": [
+      {
+        "id": "potato_russet",
+        "name": "Russet Potatoes",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 4
+      },
+      {
+        "id": "cheddar_block",
+        "name": "Cheddar Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 4
+      },
+      {
+        "id": "sour_cream",
+        "name": "Sour Cream",
+        "category": "dairy",
+        "purchaseUnit": "container",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 4
+      },
+      {
+        "id": "green_onions",
+        "name": "Green Onions",
+        "category": "produce_fresh",
+        "purchaseUnit": "bunch",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "bunch",
+        "unit": "bunch",
+        "amount": 0.25
+      },
+      {
+        "id": "bacon",
+        "name": "Bacon",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 6
+      },
+      {
+        "id": "butter_unsalted",
+        "name": "Unsalted Butter",
+        "category": "dairy",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Bake pierced potatoes at 425°F until tender, about 45 to 50 minutes.",
+      "Cook bacon until crisp and crumble it.",
+      "Split potatoes and fluff with butter.",
+      "Top with cheddar, sour cream, bacon, and green onion."
+    ],
+    "notes": "Use broccoli instead of bacon for a vegetarian variation.",
+    "tags": [
+      "dinner",
+      "lunch",
+      "budget",
+      "comfort-food",
+      "kid-friendly"
+    ]
+  },
+  {
+    "name": "Peanut Butter Oat Energy Bites",
+    "servings": 12,
+    "prepMinutes": 15,
+    "cookMinutes": 0,
+    "ingredients": [
+      {
+        "id": "peanut-butter",
+        "name": "Peanut Butter Creamy",
+        "category": "nuts",
+        "purchaseUnit": "jar",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "cup",
+        "amount": 0.75
+      },
+      {
+        "id": "rolled_oats",
+        "name": "Rolled Oats",
+        "category": "grains",
+        "purchaseUnit": "container",
+        "baseQuantity": 18,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1.5
+      },
+      {
+        "id": "honey",
+        "name": "Honey",
+        "category": "breakfast",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "cup",
+        "amount": 0.25
+      },
+      {
+        "id": "raisins",
+        "name": "Raisins",
+        "category": "breakfast",
+        "purchaseUnit": "box",
+        "baseQuantity": 15,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 0.5
+      },
+      {
+        "id": "chocolate_chips",
+        "name": "Chocolate Chips",
+        "category": "baking",
+        "purchaseUnit": "bag",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "oz",
+        "unit": "cup",
+        "amount": 0.5
+      },
+      {
+        "id": "cinnamon",
+        "name": "Ground Cinnamon",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Mix peanut butter and honey until smooth.",
+      "Stir in oats, raisins, chocolate chips, and cinnamon.",
+      "Chill briefly if the mixture is too sticky.",
+      "Roll into small balls and refrigerate until firm."
+    ],
+    "notes": "Keep refrigerated; these are intended as a snack rather than a meal replacement.",
+    "tags": [
+      "snack",
+      "quick",
+      "no-cook",
+      "vegetarian",
+      "kid-friendly",
+      "meal-prep"
+    ]
+  },
+  {
+    "name": "Vegetable Pasta Primavera",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "ingredients": [
+      {
+        "id": "rotini",
+        "name": "Rotini",
+        "category": "grains",
+        "purchaseUnit": "box",
+        "baseQuantity": 16,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 12
+      },
+      {
+        "id": "zucchini",
+        "name": "Zucchini",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "bell-peppers",
+        "name": "Bell Peppers",
+        "category": "produce_fresh",
+        "purchaseUnit": "count",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "broccoli",
+        "name": "Broccoli",
+        "category": "produce_fresh",
+        "purchaseUnit": "head",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "head",
+        "unit": "head",
+        "amount": 0.5
+      },
+      {
+        "id": "mushrooms",
+        "name": "Mushrooms",
+        "category": "produce_fresh",
+        "purchaseUnit": "oz",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 4
+      },
+      {
+        "id": "olive_oil_extra_virgin",
+        "name": "Extra Virgin Olive Oil",
+        "category": "oils",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 33,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "parmesan",
+        "name": "Parmesan Cheese",
+        "category": "dairy",
+        "purchaseUnit": "oz",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 2
+      },
+      {
+        "id": "garlic",
+        "name": "Garlic",
+        "category": "produce_fresh",
+        "purchaseUnit": "bulb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "clove",
+        "unit": "clove",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Cook pasta according to package directions.",
+      "Sauté chopped vegetables in olive oil until crisp-tender.",
+      "Add garlic and cook briefly.",
+      "Toss pasta with vegetables and Parmesan.",
+      "Season and serve."
+    ],
+    "notes": "Frozen broccoli can replace fresh broccoli.",
+    "tags": [
+      "dinner",
+      "lunch",
+      "pasta",
+      "vegetarian",
+      "budget",
+      "quick"
+    ]
+  },
+  {
+    "name": "Honey Mustard Chicken",
+    "servings": 4,
+    "prepMinutes": 8,
+    "cookMinutes": 20,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "name": "Chicken Breast",
+        "category": "protein",
+        "purchaseUnit": "lb",
+        "baseQuantity": 3,
+        "defaultRecipeUnit": "oz",
+        "unit": "oz",
+        "amount": 16
+      },
+      {
+        "id": "mustard_dijon",
+        "name": "Dijon Mustard",
+        "category": "condiments",
+        "purchaseUnit": "jar",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "honey",
+        "name": "Honey",
+        "category": "breakfast",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 2
+      },
+      {
+        "id": "olive_oil_extra_virgin",
+        "name": "Extra Virgin Olive Oil",
+        "category": "oils",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 33,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "tbsp",
+        "amount": 1
+      },
+      {
+        "id": "garlic_powder",
+        "name": "Garlic Powder",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      },
+      {
+        "id": "black_pepper_ground",
+        "name": "Ground Black Pepper",
+        "category": "spices",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.25
+      }
+    ],
+    "instructions": [
+      "Whisk Dijon, honey, olive oil, garlic powder, and pepper.",
+      "Coat chicken with half the sauce.",
+      "Cook chicken in a skillet until browned and cooked through.",
+      "Brush with remaining sauce during the last few minutes.",
+      "Rest briefly before serving."
+    ],
+    "notes": "Serve with rice, potatoes, or vegetables from the inventory.",
+    "tags": [
+      "dinner",
+      "chicken",
+      "high-protein",
+      "quick",
+      "budget",
+      "meal-prep"
+    ]
+  },
+  {
+    "name": "Chocolate Oatmeal Cookies",
+    "servings": 18,
+    "prepMinutes": 15,
+    "cookMinutes": 12,
+    "ingredients": [
+      {
+        "id": "butter_unsalted",
+        "name": "Unsalted Butter",
+        "category": "dairy",
+        "purchaseUnit": "lb",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "cup",
+        "amount": 0.5
+      },
+      {
+        "id": "sugar_brown_light",
+        "name": "Light Brown Sugar",
+        "category": "baking",
+        "purchaseUnit": "bag",
+        "baseQuantity": 2,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 0.75
+      },
+      {
+        "id": "eggs",
+        "name": "Eggs",
+        "category": "dairy",
+        "purchaseUnit": "count",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "count",
+        "unit": "count",
+        "amount": 1
+      },
+      {
+        "id": "vanilla_extract",
+        "name": "Vanilla Extract",
+        "category": "baking",
+        "purchaseUnit": "bottle",
+        "baseQuantity": 2,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 1
+      },
+      {
+        "id": "flour_all_purpose",
+        "name": "All-Purpose Flour",
+        "category": "baking",
+        "purchaseUnit": "bag",
+        "baseQuantity": 5,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 0.75
+      },
+      {
+        "id": "rolled_oats",
+        "name": "Rolled Oats",
+        "category": "grains",
+        "purchaseUnit": "container",
+        "baseQuantity": 18,
+        "defaultRecipeUnit": "cup",
+        "unit": "cup",
+        "amount": 1.5
+      },
+      {
+        "id": "baking_soda",
+        "name": "Baking Soda",
+        "category": "baking",
+        "purchaseUnit": "box",
+        "baseQuantity": 1,
+        "defaultRecipeUnit": "tsp",
+        "unit": "tsp",
+        "amount": 0.5
+      },
+      {
+        "id": "cocoa_powder",
+        "name": "Cocoa Powder",
+        "category": "baking",
+        "purchaseUnit": "container",
+        "baseQuantity": 8,
+        "defaultRecipeUnit": "tbsp",
+        "unit": "cup",
+        "amount": 0.25
+      },
+      {
+        "id": "chocolate_chips",
+        "name": "Chocolate Chips",
+        "category": "baking",
+        "purchaseUnit": "bag",
+        "baseQuantity": 12,
+        "defaultRecipeUnit": "oz",
+        "unit": "cup",
+        "amount": 0.75
+      }
+    ],
+    "instructions": [
+      "Heat oven to 350°F.",
+      "Cream butter and brown sugar.",
+      "Beat in egg and vanilla.",
+      "Mix flour, oats, baking soda, and cocoa separately.",
+      "Stir dry ingredients into the butter mixture and fold in chocolate chips.",
+      "Bake spoonfuls for 10 to 12 minutes.",
+      "Cool briefly before transferring."
+    ],
+    "notes": "Cookies should look slightly underdone in the center when removed.",
+    "tags": [
+      "dessert",
+      "baking",
+      "vegetarian",
+      "budget",
+      "kid-friendly"
+    ]
+  }
+]

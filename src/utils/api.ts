@@ -1,4 +1,4 @@
-import { Category, Ingredient, IngredientEntry } from "@/types";
+import { Category, Ingredient, IngredientEntry, Recipe } from "@/types";
 import Constants from "expo-constants";
 
 const hostUri = Constants.expoConfig?.hostUri;
@@ -18,6 +18,10 @@ type TRequestsType = {
   getInventory: () => Promise<IngredientEntry[]>;
   addToInventory: (ingredient: IngredientEntry) => Promise<IngredientEntry>;
   removeFromInventory: (ingredientId: string[]) => Promise<IngredientEntry[]>;
+  getAllRecipes: () => Promise<Recipe[]>;
+  // getRecipesByTag: (tags: string[]) => Promise<Recipe[]>;
+  // getRecipeByName: (name: string) => Promise<Recipe>;
+  // addRecipe: (recipe: Recipe) => Promise<Recipe>;
 };
 
 export const Requests: TRequestsType = {
@@ -98,4 +102,15 @@ export const Requests: TRequestsType = {
 
     return Requests.getInventory();
   },
+  getAllRecipes: async () => {
+    const response = await fetch(`${baseUrl}/recipes`);
+
+    if (!response.ok) {
+      throw new Error("Failed to retrieve recipes");
+    }
+    return response.json();
+  },
+  // getRecipesByTag: async (tags: string[]) => {},
+  // getRecipeByName: async (name: string) => {},
+  // addRecipe: async (recipe: Recipe) => {},
 };

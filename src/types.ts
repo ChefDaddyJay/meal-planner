@@ -74,12 +74,14 @@ export type Ingredient = {
 };
 
 export type Recipe = {
-  id: string;
   name: string;
   servings: number;
   prepMinutes: number;
   cookMinutes: number;
   ingredients: IngredientEntry[];
+  instructions: string[];
+  notes: string;
+  tags: string[];
 };
 
 export type IngredientEntry = Ingredient & {

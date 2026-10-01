@@ -93,7 +93,7 @@ export default function Inventory() {
         <CategoryModal
           isVisible={true}
           category={openCategory}
-          contents={categoryContents(openCategory.id)}
+          ingredientList={categoryContents(openCategory.id)}
           onClose={onModalClose}
           onAdd={addToInventory}
           onRemove={removeFromInventory}
